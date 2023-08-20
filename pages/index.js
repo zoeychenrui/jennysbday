@@ -70,7 +70,7 @@ const HomePage = () => {
     {
       images: [
         { src: '/costco.jpg', alt: 'costco' },
-        { src: '/park.JPG', alt: 'park' },
+        { src: '/park.jpg', alt: 'park' },
         { src: '/night.jpg', alt: 'night' },
       ],
       text: 'since that fateful day in grade 3 and through every stage thereafter, no matter how awkward 🙈',
